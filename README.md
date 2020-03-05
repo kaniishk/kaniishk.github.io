@@ -1,2 +1,2 @@
 # kaniishk.github.io
-SDE task WhitePanda
+  Small Project To Learn Angular
